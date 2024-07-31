@@ -1,6 +1,8 @@
-{"1.1.0",
+{"1.2.0",
 [{<<"prometheus">>,{pkg,<<"prometheus">>,<<"4.2.2">>},0}]}.
 [
 {pkg_hash,[
- {<<"prometheus">>, <<"A830E77B79DC6D28183F4DB050A7CAC926A6C58F1872F9EF94A35CD989ACEEF8">>}]}
+ {<<"prometheus">>, <<"A830E77B79DC6D28183F4DB050A7CAC926A6C58F1872F9EF94A35CD989ACEEF8">>}]},
+{pkg_hash_ext,[
+ {<<"prometheus">>, <<"B479A33D4AA4BA7909186E29BB6C1240254E0047A8E2A9F88463F50C0089370E">>}]}
 ].
